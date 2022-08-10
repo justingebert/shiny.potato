@@ -1,9 +1,9 @@
 public class Testing01{
 
-    private String x = "hello";
+    private String x = "hello Meister";
 
     public static void main(String[] args) {
-        System.out.println("Hello");
+        System.out.println(x);
     }
 
 }
